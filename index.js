@@ -7,7 +7,7 @@ function destructivelyAppendKitten(name){
   
 }
 
-
+function destructivelyPrependKitten(name) prepends a kitten to the beginning of the kittens array:
 
 function destructivelyRemoveLastKitten()
 
