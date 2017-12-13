@@ -21,4 +21,6 @@ appendKitten(name)
 
 prependKitten(name)
 
+removeLastKitten()
 
+removeFir
