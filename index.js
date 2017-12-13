@@ -15,3 +15,4 @@ kittens.unshift(name);
 //expects ["Milo", "Otis"]
 function destructivelyRemoveLastKitten()
 {kittens.pop()}
+
