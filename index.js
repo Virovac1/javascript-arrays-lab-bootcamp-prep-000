@@ -18,5 +18,6 @@ function destructivelyRemoveLastKitten()
 
 //expects ["Otis", "Garfield"]
 function destructivelyRemoveFirstKitten()
-{}
+{kittens.shift()}
+
   
