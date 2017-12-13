@@ -15,5 +15,7 @@ function destructivelyRemoveLastKitten()
 
 function destructivelyRemoveFirstKitten()
 
+appendKitten(name)
+
 
 
