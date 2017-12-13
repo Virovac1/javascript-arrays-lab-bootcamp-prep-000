@@ -15,6 +15,8 @@ function destructivelyRemoveLastKitten()
 
 function destructivelyRemoveFirstKitten()
 
+//all others returns a new array, leaving the kittens array unchanged:
+
 appendKitten(name)
 
 prependKitten(name)
