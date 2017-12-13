@@ -12,4 +12,6 @@ function destructivelyPrependKitten(name){
 kittens.unshift(name);  
 } 
 
+//expects ["Milo", "Otis"]
+function destructivelyRemoveLastKitten()
 
