@@ -23,4 +23,4 @@ prependKitten(name)
 
 removeLastKitten()
 
-removeFir
+removeFirstKitten()
